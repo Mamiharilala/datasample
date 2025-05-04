@@ -1,1 +1,0 @@
-[{"date":"2024-01-01","product":"Laptop","amount":1200},{"date":"2024-01-02","product":"Mouse","amount":25},{"date":"2024-01-03","product":"Keyboard","amount":45},{"date":"2024-01-04","product":"Monitor","amount":300}]
